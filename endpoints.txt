@@ -1,0 +1,3 @@
+https://api.github.com/repos/openai/gpt-3.5
+https://api.github.com/repos/openai/triton
+https://api.github.com/repos/openai/openai-python
